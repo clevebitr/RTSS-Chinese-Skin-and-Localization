@@ -1,0 +1,22 @@
+#src Target bitrate : %d Mbps
+#dst 目标比特率 : %d Mbps
+#end
+
+#src software emulation
+#dst 软件仿真
+#end
+#src hardware accelerated via %s on device 1
+#dst 通过 %s 在设备 1 上硬件加速
+#end
+#src hardware accelerated via %s on device 2
+#dst 通过 %s 在设备 2 上硬件加速
+#end
+#src hardware accelerated via %s on device 3
+#dst 通过 %s 在设备 3 上硬件加速
+#end
+#src hardware accelerated via %s on device 4
+#dt 通过 %s 在设备 4 上硬件加速
+#end
+#src Intel QuickSync H.264 %s, async depth %d
+#dst Intel QuickSync H.264 %s, 异步深度 %d
+#end

@@ -1,0 +1,15 @@
+#src External encoder configuration
+#dst 外部编码器配置
+#end
+#src Encoder
+#dst 编码器
+#end
+#src Configure
+#dst 配置
+#end
+#src Benchmark mode
+#dst 基准测试模式
+#end
+#src Benchmark
+#dst 基准测试
+#end

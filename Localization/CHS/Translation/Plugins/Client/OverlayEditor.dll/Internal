@@ -1,0 +1,401 @@
+#src N/A
+#dst 不适用
+#end
+
+#src Sensor
+#dst 传感器
+#end
+#src Value
+#dst 值
+#end
+
+#src Sensors exported to %s!
+#dst 传感器导出到 %s！
+#end
+
+#src Source
+#dst 来源
+#end
+
+#src Temperature
+#dst 温度
+#end
+#src Voltage
+#dst 电压
+#end
+#src Fan speed
+#dst 风扇转速
+#end
+#src Current
+#dst 电流
+#end
+#src Power
+#dst 功率
+#end
+#src Clock
+#dst 时钟
+#end
+#src Usage
+#dst 使用率
+#end
+#src Other
+#dst 其他
+
+#src GPU temperature
+#dst GPU温度
+#end
+#src PCB temperature
+#dst PCB温度
+#end
+#src Memory temperature
+#dst 内存温度
+#end
+#src VRM temperature
+#dst VRM温度
+#end
+#src Fan speed
+#dst 风扇转速
+#end
+#src Fan tachometer
+#dst 风扇测速仪
+#end
+#src Core clock
+#dst 核心时钟
+#end
+#src Shader clock
+#dst 着色器时钟
+#end
+#src Memory clock
+#dst 内存时钟
+#end
+#src GPU usage
+#dst GPU使用率
+#end
+#src Memory usage
+#dst 内存使用率
+#end
+#src FB usage
+#dst 帧缓冲使用率
+#end
+#src VID usage
+#dst VID使用率
+#end
+#src BUS usage
+#dst 总线使用率
+#end
+#src GPU voltage
+#dst GPU电压
+#end
+#src Aux voltage
+#dt 辅助电压
+#end
+#src Memory voltage
+#dst 内存电压
+#end
+#src Framerate
+#dst 帧率
+#end
+#src Frametime
+#dst 帧时间
+#end
+#src Framerate Min
+#dst 最小帧率
+#end
+#src Framerate Avg
+#dst 平均帧率
+#end
+#src Framerate Max
+#dst 最大帧率
+#end
+#src Framerate 1% Low
+#dst 帧率1%低值
+#end
+#src Framerate 0.1% Low
+#dst 帧率0.1%低值
+#end
+#src Power
+#dst 功率
+
+#src Temp limit
+#dst 温度限制
+#end
+#src Power limit
+#dst 功率限制
+#end
+#src Voltage limit
+#dst 电压限制
+#end
+#src No load limit
+#dst 无负载限制
+#end
+#src CPU usage
+#dst CPU使用率
+#end
+#src RAM usage
+#dst RAM使用率
+#end
+#src Commit charge
+#dst 提交电荷
+#end
+#src CPU temperature
+#dst CPU温度
+#end
+#src SLI sync limit
+#dst SLI同步限制
+#end
+#src CPU clock
+#dst CPU时钟
+#end
+#src Aux2 voltage
+#dst 辅助电压2
+#end
+#src GPU temperature 2
+#dst GPU温度2
+#end
+#src PCB temperature 2
+#dst PCB温度2
+#end
+#src Memory temperature 2
+#dst 内存温度2
+#end
+#src VRM temperature 2
+#dst VRM温度2
+#end
+#src GPU temperature 3
+#dst GPU温度3
+#end
+#src PCB temperature 3
+#dst PCB温度3
+#end
+#src Memory temperature 3
+#dst 内存温度3
+#end
+#src VRM temperature 3
+#dst VRM温度3
+#end
+#src GPU temperature 4
+#dst GPU温度4
+#end
+#src PCB temperature 4
+#dst PCB温度4
+#end
+#src Memory temperature 4
+#dst 内存温度4
+#end
+#src VRM temperature 4
+#dst VRM温度4
+#end
+#src GPU temperature 5
+#dst GPU温度5
+#end
+#src PCB temperature 5
+#dst PCB温度5
+#end
+#src Memory temperature 5
+#dst 内存温度5
+#end
+#src VRM temperature 5
+#dst VRM温度5
+#end
+#src <GPU plugin>
+#dst <GPU插件>
+#end
+#src <CPU plugin>
+#dst <CPU插件>
+#end
+#src <motherboard plugin>
+#dst <主板插件>
+#end
+#src <RAM plugin>
+#dst <内存插件>
+#end
+#src <HDD plugin>
+#dst <硬盘插件>
+#end
+#src <NET plugin>
+#dst <网络插件>
+#end
+#src <PSU plugin>
+#dst <电源插件>
+#end
+#src <UPS plugin>
+#dst <UPS插件>
+#end
+#src <miscellaneous plugin>
+#dst <杂项插件>
+#end
+#src CPU power
+#dst CPU功率
+
+#src Failed to initialize Direct3D!
+#dst Direct3D初始化失败！
+
+#src nameless
+#dst 无名
+#end
+#src Overlay editor
+#dst 覆盖编辑器
+#end
+#src Overlay editor - %s
+#dst 覆盖编辑器 - %s
+#end
+#src Undo / Redo : %d / %d
+#dst 撤销 / 重做 : %d / %d
+#end
+#src Undo : %d
+#dst 撤销 : %d
+#end
+#src Undo / Redo
+#dst 撤销 / 重做
+#end
+#src Layer %d of %d\tPos (%d, %d)\tExt (%d, %d)
+#dst 图层 %d/%d\t位置 (%d, %d)\t范围 (%d, %d)
+#end
+#src Layer info
+#dst 图层信息
+#end
+#src \tHypertext %d / %d\tBuffer %d / %d
+#dst \t超文本 %d / %d\t缓冲区 %d / %d
+#end
+#src Do you want to save changes in %s overlay layout?
+#dst 您要保存%s覆盖布局的更改吗？
+#end
+#src Overlay layout files (*.ovl)|*.ovl||
+#dst 覆盖布局文件 (*.ovl)|*.ovl||
+#end
+#src PNG image files (*.png)|*.png||
+#dst PNG图像文件 (*.png)|*.png||
+#end
+#src Warning! This will set your On-Screen Display rendering mode, raster font and zoom settings to layout creator's ones. Do you want to continue?
+#dst 警告！这将把您的屏幕显示渲染模式、光栅字体和缩放设置更改为布局创建者的设置。您要继续吗？
+#end
+#src Cur (%d, %d)\tPos (%d, %d)\tExt (%d, %d)
+#dst 当前 (%d, %d)\t位置 (%d, %d)\t范围 (%d, %d)
+#end
+
+#src Table
+#dst 表格
+#end
+#src Line
+#dst 行
+#end
+#src Cell
+#dst 单元格
+#end
+#src <nameless>
+#dst <无名>
+#end
+#src <separator>
+#dst <分隔符>
+#end
+#src <no binding>
+#dst <无绑定>
+#end
+
+#src Internal HAL
+#dst 内部HAL
+#end
+#src Windows performance counter
+#dst Windows性能计数器
+#end
+
+#src Layer %d of %d\tPos (%s, %s)\tExt (%d, %d)
+#dst 图层 %d/%d\t位置 (%s, %s)\t范围 (%d, %d)
+#end
+
+#src left
+#dst 左
+#end
+#src center
+#dst 中
+#end
+#src right
+#dst 右
+#end
+#src top
+#dst 顶部
+#end
+#src bottom
+#dst 底部
+#end
+
+#src Overlay layout exchange files (*.ovx)|*.ovx||
+#dst 覆盖布局交换文件 (*.ovx)|*.ovx||
+#end
+#src Failed to export %s file!
+#dst 导出%s文件失败！
+#end
+#src Failed to import %s file!
+#dst 导入%s文件失败！
+#end
+#src Different version of %s file already exists, do you want to overwrite it?
+#dst %s文件的不同版本已存在，您要覆盖它吗？
+#end
+#src Failed to extract %s file!
+#dst 提取%s文件失败！
+#end
+
+#src The settings will be applied after restarting the application!
+#dst 设置将在重启应用程序后生效！
+
+#src graph minimum
+#dst 图表最小值
+#end
+#src graph maximum
+#dst 图表最大值
+#end
+#src framerate
+#dst 帧率
+#end
+#src minimum framerate
+#dst 最小帧率
+#end
+#src average framerate
+#dst 平均帧率
+#end
+#src maximum framerate
+#dst 最大帧率
+#end
+#src 1% low framerate
+#dst 1%低帧率
+#end
+#src 0.1% low framerate
+#dst 0.1%低帧率
+#end
+#src frametime
+#dst 帧时间
+#end
+#src frame counter
+#dst 帧计数器
+#end
+#src abbreviated 3D API
+#dst 简称3D API
+#end
+#src 3D API
+#dst 3D API
+#end
+#src executable
+#dst 可执行文件
+#end
+#src resolution
+#dst 分辨率
+#end
+#src architecture
+#dst 架构
+#end
+#src time
+#dst 时间
+#end
+#src text file
+#dst 文本文件
+#end
+#src benchmark time
+#dst 基准测试时间
+
+#src Embedded image must be located in the same folder with overlay layout!
+#dst 嵌入图像必须与覆盖布局位于同一文件夹！
+#end
+#src Overlay layout contains references to additional files, do you want to copy them to new folder as well?
+#dst 覆盖布局包含对附加文件的引用，您也要将它们复制到新文件夹吗？
+
+#end

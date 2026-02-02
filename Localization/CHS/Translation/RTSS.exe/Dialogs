@@ -1,0 +1,241 @@
+#src General
+#dst 常规
+#end
+#src General properties
+#dst 常规属性
+#end
+#src Start minimized
+#dst 启动时最小化
+#end
+#src Hide pre-created profiles
+#dst 隐藏预创建的配置文件
+#end
+#src Update checking properties
+#dst 更新检查属性
+#end
+#src Check for available product updates
+#dst 检查可用的产品更新
+#end
+#src Check for available product beta versions
+#dst 包括测试版
+#end
+#src never
+#dst 从不
+#end
+#src on startup
+#dst 启动时
+#end
+#src on startup daily
+#dst 每天
+#end
+#src on startup weekly
+#dst 每周
+#end
+#src on startup monthly
+#dst 每月
+#end
+#src Check now
+#dst 立即检查
+#end
+#src FCAT properties
+#dst FCAT 属性
+#end
+#src Enable frame color indicator
+#dst 启用帧颜色指示器
+#end
+#src color sequence
+#dst 颜色序列
+#end
+#src 2 bars
+#dst 2 栏
+#end
+#src 3 bars
+#dst 3 栏
+#end
+#src 4 bars
+#dst 4 栏
+#end
+#src moving bar
+#dst 移动栏
+#end
+#src latency marker
+#dst 延迟标记
+#end
+#src Statistics properties
+#dst 统计属性
+#end
+#src Framerate averaging interval (in milliseconds)
+#dst 帧率平均间隔（毫秒）
+#end
+#src Refresh period (in milliseconds)
+#dst 刷新周期（毫秒）
+#end
+#src Display integer framerate
+#dst 显示整数帧率
+#end
+#src Display maximum frametime
+#dst 显示最大帧时间
+#end
+#src Enable frametime history overlay
+#dst 启用帧时间历史叠加显示
+#end
+
+#src Frametime calculation point
+#dst 帧时间计算点
+#end
+#src frame start
+#dst 帧开始
+#end
+#src frame presentation
+#dst 帧呈现
+#end
+
+#src Peak framerate calculation mode
+#dst 峰值帧率计算模式
+#end
+#src average
+#dst 平均值
+#end
+#src instantaneous
+#dst 瞬时值
+#end
+#src Percentile calculation mode
+#dst 百分位数计算模式
+#end
+#src integral
+#dst 积分
+#end
+#src linear
+#dst 线性
+#end
+#src Percentile buffer
+#dst 百分位数缓冲区
+#end
+#src unlimited
+#dst 无限制
+#end
+#src ring
+#dst 环形
+#end
+
+#src graph
+#dst 折线图
+#end
+#src diagram
+#dst 面积图
+#end
+#src Compatibility properties
+#dst 兼容性属性
+#end
+#src Enable dedicated encoder server service
+#dst 启用专用编码器服务器服务
+#end
+#src 32-bit
+#dst 32 位
+#end
+#src 64-bit
+#dst 64 位
+#end
+#src Enable 64-bit applications support service
+#dst 启用 64 位应用程序支持服务
+#end
+#src Enable benchmark mode
+#dst 启用基准测试模式
+#end
+#src Enable framerate limiter
+#dst 启用帧率限制器
+#end
+#src async
+#dst 异步
+#end
+#src front edge sync
+#dst 前沿同步
+#end
+#src back edge sync
+#dst 后沿同步
+#end
+#src Enable passive waiting
+#dst 启用被动等待
+#end
+
+#src Injection properties
+#dst 注入属性
+#end
+#src Use Microsoft Detours API hooking
+#dst 使用 Microsoft Detours API 钩子
+#end
+#src Injection delay (in milliseconds)
+#dst 注入延迟（毫秒）
+#end
+#src Reset cache
+#dst 重置缓存
+#dlu -100
+#end
+#src Inject NVIDIA Reflex latency markers
+#dst 注入 NVIDIA Reflex 延迟标记
+#end
+#src Inject NVIDIA Reflex sleep call
+#dst 注入 NVIDIA Reflex 休眠调用
+#end
+#src before frame presentation
+#dst 帧呈现前
+#end
+#src after frame presentation
+#dst 帧呈现后
+#end
+
+#src Plugins
+#dst 插件
+#end
+#src Active plugin modules
+#dst 活跃插件模块
+#end
+#src Setup
+#dst 设置
+#end
+
+#src User Interface
+#dst 用户界面
+#end
+#src User interface help system properties
+#dst 用户界面帮助系统属性
+#end
+#src English
+#dst 英语
+#end
+#src Language
+#dst 选择语言
+#end
+#src Show user interface tooltips
+#dst 显示用户界面工具提示
+#end
+#src User interface skinning properties
+#dst 用户界面皮肤属性
+#end
+#src Skin composition mode
+#dst 皮肤合成模式
+#end
+#src traditional
+#dst 传统
+#end
+#src layered with colorkey
+#dst 分层带色彩键
+#end
+#src layered with alpha
+#dst 分层带透明度
+#end
+#src Skin transparency
+#dst 皮肤透明度
+#end
+#src Transparent
+#dst 透明
+#end
+#src Opaque
+#dst 不透明
+#end
+#src Color
+#dst 颜色
+#end
+#src Cancel
+#dst 取消
+#end

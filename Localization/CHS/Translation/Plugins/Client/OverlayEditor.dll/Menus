@@ -1,0 +1,118 @@
+#src Layouts
+#dst 布局
+#end
+#src New\tCtrl+N
+#dst 新建\tCtrl+N
+#end
+#src Edit\tCtrl+Enter
+#dst 编辑\tCtrl+Enter
+#end
+#src Load\tCtrl+L, Ctrl+O
+#dst 加载\tCtrl+L, Ctrl+O
+#end
+#src Save\tCtrl+S
+#dst 保存\tCtrl+S
+#end
+#src Save As\tCtrl+Shift+S
+#dst 另存为\tCtrl+Shift+S
+#end
+#src Undo\tCtrl+Z
+#dst 撤销\tCtrl+Z
+#end
+#src Redo\tCtrl+Y, Ctrl+Shift+Z
+#dst 重做\tCtrl+Y, Ctrl+Shift+Z
+#end
+#src Import
+#dst 导入
+#end
+#src Export
+#dst 导出
+#end
+
+#src Data sources
+#dst 数据源
+#end
+#src Edit\tCtrl+D
+#dst 编辑\tCtrl+D
+#end
+
+#src Tables
+#dst 表格
+#end
+#src Edit\tCtrl+T
+#dst 编辑\tCtrl+T
+#end
+
+#src Layers
+#dst 图层
+#end
+#src Add\tInsert
+#dst 添加\tInsert
+#end
+#src Remove\tDelete
+#dst 删除\tDelete
+#end
+#src Edit\tEnter
+#dst 编辑\tEnter
+#end
+
+#src Edit list\tCtrl+Shift+L
+#dst 编辑列表\tCtrl+Shift+L
+#end
+#src Move to top\tHome
+#dst 移至顶部\tHome
+#end
+#src Move up\tPage Up
+#dst 向上移动\tPage Up
+#end
+#src Move down\tPage Down
+#dst 向下移动\tPage Down
+#end
+#src Move to bottom\tEnd
+#dst 移至底部\tEnd
+#end
+#src Copy\tCtrl+C
+#dst 复制\tCtrl+C
+#end
+#src Paste\tCtrl+V
+#dst 粘贴\tCtrl+V
+#end
+
+#src View
+#dst 视图
+#end
+#src Reset view zoom
+#dst 重置视图缩放
+#end
+#src Snap to grid
+#dst 对齐网格
+#end
+#src Show grid
+#dst 显示网格
+#end
+#src Show checkerboard
+#dst 显示棋盘格
+
+#src Tools
+#dst 工具
+#end
+#src Show hypertext\tCtrl+Shift+H
+#dst 显示超文本\tCtrl+Shift+H
+#end
+#src Optimize hypertext\tCtrl+Shift+O
+#dst 优化超文本\tCtrl+Shift+O
+#end
+
+#src Macro
+#dst 宏
+#end
+#src Internal sources
+#dst 内部源
+#end
+#src External sources
+#dst 外部源
+#end
+
+#src Tags
+#dst 标签
+#end

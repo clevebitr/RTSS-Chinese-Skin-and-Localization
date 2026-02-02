@@ -1,0 +1,42 @@
+#src Please select target folder for screen capture
+#dst 请选择屏幕捕获的目标文件夹
+#end
+#src Please select target folder for video capture
+#dst 请选择视频捕获的目标文件夹
+#end
+
+#src uncompressed
+#dst 未压缩
+#end
+#src NV12 compression
+#dst NV12 压缩
+#end
+#src RTV1 compression
+#dst RTV1 压缩
+#end
+#src MJPG compression
+#dst MJPG 压缩
+#end
+#src VFW compression : %s
+#dst VFW 压缩 : %s
+#end
+#src external plugin : %s
+#dst 外部插件 : %s
+#end
+#src not configured
+#dst 未配置
+
+#src %d%% quality
+#dst %d%% 质量
+#end
+
+#src Framerate %d FPS
+#dst 帧率 %d FPS
+#end
+
+#src Warning
+#dst 警告
+#end
+#src You've specified invalid profile property!
+#dst 您指定的配置文件属性无效！
+#end

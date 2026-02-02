@@ -1,0 +1,12 @@
+#src Undo / Redo
+#dst 撤销/重做
+#end
+#src Layer info
+#dst 图层信息
+#end
+#src Hypertext info
+#dst 超文本信息
+#end
+#src Sprite dimensions
+#dst 精灵尺寸
+#end

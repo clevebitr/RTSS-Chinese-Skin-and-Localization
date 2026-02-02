@@ -1,0 +1,24 @@
+#src NVIDIA NVENC encoder
+#dst NVIDIA NVENC 编码器
+#end
+#src Preset
+#dst 预设
+#end
+#src Speed
+#dst 速度
+#end
+#src Balanced
+#dst 平衡
+#end
+#src Quality
+#dst 质量
+#end
+#src Low-latency encoding
+#dst 低延迟编码
+
+#src 1 Mbps
+#dst 1 Mbps
+#end
+#src 130 Mbps
+#dst 130 Mbps
+#end

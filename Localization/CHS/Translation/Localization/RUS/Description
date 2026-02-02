@@ -1,0 +1,10 @@
+#src Russian
+#dst ∂Ì”Ô
+#end
+
+; this entry is displayed only when Russian localization pack is selected, so
+; you don't have to translate it in your localization packs
+
+#src Alexey Nicolaychuk aka Unwinder
+#dst Alexey Nicolaychuk aka Unwinder
+#end

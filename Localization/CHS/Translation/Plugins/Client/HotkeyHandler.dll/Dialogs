@@ -1,0 +1,311 @@
+#src Hotkey handler properties
+#dst 热键处理器属性
+#end
+
+#src On-Screen Display
+#dst 屏幕显示
+#end
+#src Show On-Screen Display
+#dst 显示屏幕显示
+#end
+#src Hide On-Screen Display
+#dst 隐藏屏幕显示
+#end
+#src Toggle On-Screen Display
+#dst 切换屏幕显示
+#end
+#src Overlay editor plugin
+#dst 覆盖编辑器插件
+#end
+
+#src Overlay editor plugin properties
+#dst 覆盖编辑器插件属性
+#end
+#src Programmable overlay modifier 1
+#dst 可编程覆盖修改器 1
+#end
+#src Programmable overlay modifier 2
+#dst 可编程覆盖修改器 2
+#end
+#src Programmable overlay modifier 3
+#dst 可编程覆盖修改器 3
+#end
+#src Programmable overlay modifier 4
+#dst 可编程覆盖修改器 4
+#end
+
+#src Programmable overlay modifier properties
+#dst 可编程覆盖修改器属性
+#end
+#src Load overlay
+#dst 加载覆盖
+#end
+#src Load text file
+#dst 加载文本文件
+#end
+#src View text file
+#dst 查看文本文件
+#end
+#src Move to next text file line
+#dst 移动到下一行文本文件
+#end
+#src Move to previous text file line
+#dst 移动到上一行文本文件
+#end
+#src Set timer to 30 seconds
+#dst 设置定时器为30秒
+#end
+#src Set ping address
+#dst 设置ping地址
+#end
+#src Reset statistics
+#dst 重置统计
+
+#src Overlay message
+#dst 覆盖消息
+#end
+#src Overlay layer
+#dst 覆盖层
+#end
+#src Parameters
+#dst 参数
+#end
+
+#src Framerate limiter
+#dst 帧率限制器
+#end
+#src Enable framerate limter
+#dst 启用帧率限制器
+#end
+#src Disable framerate limiter
+#dst 禁用帧率限制器
+#end
+#src Toggle framerate limiter
+#dst 切换帧率限制器
+#end
+
+#src Screenshots
+#dst 截图
+#end
+#src Screen capture
+#dst 屏幕捕获
+#end
+
+#src Screen capture properties
+#dst 屏幕捕获属性
+#end
+#src Screenshot format
+#dst 截图格式
+#end
+#src Screenshots folder
+#dst 截图文件夹
+#end
+#src Browse
+#dst 浏览
+#end
+#src View
+#dst 查看
+#end
+#src Show On-Screen Display on captured screenshots and videos
+#dst 在捕获的截图和视频上显示屏幕显示
+
+#src Videos
+#dst 视频
+#end
+#src Video capture
+#dst 视频捕获
+#end
+#src Video prerecord
+#dst 视频预录制
+
+#src Video capture properties
+#dst 视频捕获属性
+#end
+#src General
+#dst 常规
+#end
+#src Video format
+#dst 视频格式
+#end
+#src Videos folder
+#dst 视频文件夹
+#end
+#src Video stream
+#dst 视频流
+#end
+#src Capture mode
+#dst 捕获模式
+#end
+#src mixed
+#dst 混合
+#end
+#src desktop
+#dst 桌面
+#end
+#src 3D application
+#dst 3D应用程序
+#end
+#src Frame size
+#dst 帧大小
+#end
+#src full frame
+#dst 全帧
+#end
+#src 1/2 frame
+#dst 1/2 帧
+#end
+#src 1/3 frame
+#dst 1/3 帧
+#end
+#src 1/4 frame
+#dst 1/4 帧
+#end
+#src Audio stream
+#dst 音频流
+#end
+#src Downmix multichannel audio to stereo
+#dst 将多声道音频混音为立体声
+#end
+#src stereo rip
+#dst 立体声提取
+#end
+#src stereo mix
+#dst 立体声混合
+#end
+#src Mix multiple audio tracks
+#dst 混合多个音频轨道
+#end
+#src None
+#dst 无
+#end
+#src Auto select
+#dst 自动选择
+#end
+#src DirectSound capture device
+#dst DirectSound捕获设备
+#end
+#src WASAPI playback device
+#dst WASAPI播放设备
+#end
+#src WASAPI capture device
+#dst WASAPI捕获设备
+#end
+#src There are no devices
+#dst 没有设备
+#end
+#src Audio source #1
+#dst 音频源 #1
+#end
+#src Audio source #2
+#dst 音频源 #2
+#end
+#src Push-To-Talk hotkey
+#dst 推送通话热键
+#end
+#src There are no devices available
+#dst 没有可用设备
+#end
+#src Use dedicated encoder server
+#dst 使用专用编码器服务器
+
+#src Video prerecording properties
+#dst 视频预录制属性
+#end
+#src Prerecord buffer location
+#dst 预录制缓冲区位置
+#end
+#src file
+#dst 文件
+#end
+#src RAM
+#dst 内存
+#end
+#src Prerecord buffer time limit, in seconds
+#dst 预录制缓冲区时间限制（秒）
+#end
+#src Prerecord buffer size limit, in MB
+#dst 预录制缓冲区大小限制（MB）
+#end
+#src Enable automatic prerecording mode
+#dst 启用自动预录制模式
+
+#src Benchmark
+#dst 基准测试
+#end
+#src Begin recording
+#dst 开始录制
+#end
+#src End recording
+#dst 结束录制
+#end
+
+#src Benchmark properties
+#dst 基准测试属性
+#end
+#src Benchmark results file
+#dst 基准测试结果文件
+#end
+#src Recreate existing benchmark results files
+#dst 重新创建现有的基准测试结果文件
+
+#src Profiles
+#dst 配置文件
+#end
+#src Programmable profile modifier 1
+#dst 可编程配置文件修改器 1
+#end
+#src Programmable profile modifier 2
+#dst 可编程配置文件修改器 2
+#end
+#src Programmable profile modifier 3
+#dst 可编程配置文件修改器 3
+#end
+#src Programmable profile modifier 4
+#dst 可编程配置文件修改器 4
+#end
+
+#src Programmable profile modifier properties
+#dst 可编程配置文件修改器属性
+#end
+#src Description
+#dst 描述
+#end
+#src Target profile (leave blank for global)
+#dst 目标配置文件（留空为全局）
+#end
+#src Target profile property
+#dst 目标配置文件属性
+#end
+#src Modifier type
+#dst 修改器类型
+#end
+#src set
+#dst 设置
+#end
+#src add
+#dst 添加
+#end
+#src Modifier value
+#dst 修改器值
+#end
+#src Preset
+#dst 预设
+#end
+#src custom
+#dst 自定义
+#end
+#src Set 60 FPS framerate limit
+#dst 设置60 FPS帧率限制
+#end
+#src Increase framerate limit
+#dst 增加帧率限制
+#end
+#src Decrease framerate limit
+#dst 减少帧率限制
+#end
+#src Increase Scanline Sync index
+#dst 增加扫描线同步索引
+#end
+#src Decrease Scanline Sync index
+#dst 减少扫描线同步索引
+#end

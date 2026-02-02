@@ -1,0 +1,16 @@
+#src Show
+#dst 显示
+#end
+#src Close
+#dst 关闭
+#end
+
+#src Capture screenshot
+#dst 截图
+#end
+#src Load
+#dst 加载
+#end
+#src Clear
+#dst 清除
+#end

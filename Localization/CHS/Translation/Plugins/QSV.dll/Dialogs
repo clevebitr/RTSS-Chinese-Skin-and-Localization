@@ -1,0 +1,39 @@
+#src Intel QuickSync encoder
+#dst Intel QuickSync 编码器
+#end
+#src Hardware acceleration mode
+#dst 硬件加速模式
+#end
+#src Device
+#dst 设备
+#end
+#src auto
+#dst 自动
+#end
+#src device 2
+#dst 设备 2
+#end
+#src device 3
+#dst 设备 3
+#end
+#src device 4
+#dst 设备 4
+#end
+#src Target usage
+#dst 目标用途
+#end
+#src Best speed
+#dst 最佳速度
+#end
+#src Balanced
+#dst 平衡
+#end
+#src Best quality
+#dst 最佳质量
+
+#src 1 Mbps
+#dst 1 Mbps
+#end
+#src 50 Mbps
+#dst 50 Mbps
+#end

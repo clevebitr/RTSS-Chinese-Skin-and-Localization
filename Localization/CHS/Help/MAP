@@ -1,0 +1,18 @@
+[MAP]
+
+; 属性 \ 常规选项卡
+
+ID_1019 = Properties\General\START_MINIMIZED
+ID_1129 = Properties\General\UPDATE_CHECKING_PERIOD
+ID_1130 = Properties\General\UPDATE_CHECKING_ALLOW_BETAS
+ID_1128 = Properties\General\UPDATE_STATUS
+ID_1127 = Properties\General\CHECK_NOW
+ID_1125 = Properties\General\ENABLE_FRAME_COLOR_INDICATOR
+ID_1126 = Properties\General\FRAME_COLOR_BARS_NUM
+
+; 属性 \ 用户界面选项卡
+
+ID_1038 = Properties\User interface\LANGUAGE_COMBO
+ID_1011 = Properties\User interface\SHOW_TOOLTIPS
+ID_1109 = Properties\User interface\SKIN_PREVIEW
+ID_1023 = Properties\User interface\SKINS_COMBO
