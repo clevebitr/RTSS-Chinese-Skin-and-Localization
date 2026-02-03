@@ -18,7 +18,7 @@ RTSS 中文本地化包和皮肤已测试兼容以下版本的 RTSS：
 
 1. 下载本仓库的文件
 2. 找到RTSS的安装目录（通常为 `C:\Program Files (x86)\RivaTuner Statistics Server`）
-3. 将 `Localization/CHS/` 目录复制到RTSS安装目录下的 `Localization/` 文件夹中
+3. 解压下载的文件，将 `CHS` 目录复制到RTSS安装目录下的 `Localization/` 文件夹中
 4. 启动RTSS，在设置中选择中文语言
 
 ## 皮肤使用方法
@@ -38,8 +38,14 @@ RTSS 中文本地化包和皮肤已测试兼容以下版本的 RTSS：
 4. 启动RTSS，在设置中选择中文皮肤
 
 ## 注意事项
-
 - 确保您使用的是兼容版本的RTSS
 - 操作前建议备份原有的本地化和皮肤文件
 - 若遇到问题，可恢复原有的文件
 - 皮肤基于RTSS默认皮肤修改，可能与未来版本的RTSS不兼容
+
+## 汉化界面截图
+![主页汉化](screenshot/home.png)
+![热键汉化](screenshot/hotkey.png)
+![设置汉化](screenshot/setting.png)
+![覆盖层汉化](screenshot/overlay.png)
+![帮助汉化](screenshot/help.png)
